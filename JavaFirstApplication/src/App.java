@@ -14,5 +14,10 @@ public class App {
         System.out.println(soma);
 
         System.out.println(floatNum + numero1);
+
+        System.out.println("""
+                    Peter Pan
+                    E os Piratas do Caribes
+                """);
     }
 }
